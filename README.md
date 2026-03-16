@@ -21,23 +21,9 @@ The repository is organized into **Slot 1** and **Slot 2**, with session-wise ma
 
 ## 🗂 Repository Structure
 
-```
-Elite-Java-Coding-Training
-│
-├── Slot-1
-│   ├── Session PDFs
-│   ├── Coding Problems
-│   └── Practice Exercises
-│
-├── Slot-2
-│   ├── Session PDFs
-│   ├── Coding Problems
-│   └── Practice Exercises
-│
-└── README.md
-```
+All training materials are organized session-wise by date.
 
-Each slot contains materials and problem-solving exercises discussed during the training sessions.
+Each file represents training content or coding exercises discussed on that day.
 
 ---
 
