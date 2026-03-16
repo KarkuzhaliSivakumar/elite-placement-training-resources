@@ -26,6 +26,35 @@ All training materials are organized session-wise by date.
 Each file represents training content or coding exercises discussed on that day.
 
 ---
+## 📘 Java Coding & Problem Solving Sessions
+
+| Session Date | Slot            | Material      |
+| ------------ | --------------- | ------------- |
+| 21 Jan 2026  | Slot 1 & Slot 2 | 21 JAN 26.pdf |
+| 22 Jan 2026  | Slot 1 & Slot 2 | 22 JAN 26.pdf |
+| 23 Jan 2026  | Slot 1 & Slot 2 | 23 JAN 26.pdf |
+| 27 Jan 2026  | Slot 1 & Slot 2 | 27 JAN 26.pdf |
+| 28 Jan 2026  | Slot 1 & Slot 2 | 28 JAN 26.pdf |
+| 29 Jan 2026  | Slot 1 & Slot 2 | 29 JAN 26.pdf |
+| 30 Jan 2026  | Slot 1 & Slot 2 | 30 JAN 26.pdf |
+| 2 Feb 2026   | Slot 1 & Slot 2 | 2 FEB 26.pdf  |
+| 3 Feb 2026   | Slot 1 & Slot 2 | 3 FEB 26.pdf  |
+| 4 Feb 2026   | Slot 1 & Slot 2 | 4 FEB 26.pdf  |
+| 5 Feb 2026   | Slot 1 & Slot 2 | 5 FEB 26.pdf  |
+| 6 Feb 2026   | Slot 1 & Slot 2 | 6 FEB 26.pdf  |
+
+---
+
+### 📚 Additional Practice & Notes
+
+| Date        | Type                  |
+| ----------- | --------------------- |
+| 25 Feb 2026 | Coding Notes          |
+| 26 Feb 2026 | Coding Notes          |
+| 27 Feb 2026 | Coding Notes          |
+| 3 Mar 2026  | Problem Solving Notes |
+| 10 Mar 2026 | Java Practice         |
+| 11 Mar 2026 | Coding Exercises      |
 
 ## 🚀 Training Focus
 
